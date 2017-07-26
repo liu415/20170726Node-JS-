@@ -18,6 +18,6 @@ to install the npm
       $ npm install express -fileupload
 
 # run the code
-1. run the server.js in the terminal
+1. run the app.js in the terminal
 
 2.then tap http://localhost :8080 in your browser
